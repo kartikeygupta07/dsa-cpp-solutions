@@ -19,6 +19,7 @@ Daily DSA practice following Striver's A2Z Sheet.
 | ------- |
 | [0013-roman-to-integer](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0013-roman-to-integer) |
 | [0424-longest-repeating-character-replacement](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0930-binary-subarrays-with-sum](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0930-binary-subarrays-with-sum) |
 ## Math
 |  |
 | ------- |
@@ -32,4 +33,13 @@ Daily DSA practice following Striver's A2Z Sheet.
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0930-binary-subarrays-with-sum](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0930-binary-subarrays-with-sum) |
+## Array
+|  |
+| ------- |
+| [0930-binary-subarrays-with-sum](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0930-binary-subarrays-with-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0930-binary-subarrays-with-sum](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0930-binary-subarrays-with-sum) |
 <!---LeetCode Topics End-->
