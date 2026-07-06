@@ -46,6 +46,7 @@ Daily DSA practice following Striver's A2Z Sheet.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0015-3sum) |
 | [0496-next-greater-element-i](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0503-next-greater-element-ii) |
 | [0930-binary-subarrays-with-sum](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0930-binary-subarrays-with-sum) |
@@ -72,4 +73,12 @@ Daily DSA practice following Striver's A2Z Sheet.
 | ------- |
 | [0496-next-greater-element-i](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0503-next-greater-element-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0015-3sum](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0015-3sum) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
