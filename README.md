@@ -25,6 +25,7 @@ Daily DSA practice following Striver's A2Z Sheet.
 | [0992-subarrays-with-k-different-integers](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/1331-rank-transform-of-an-array) |
+| [3731-find-missing-elements](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
 | ------- |
@@ -70,6 +71,7 @@ Daily DSA practice following Striver's A2Z Sheet.
 | [1331-rank-transform-of-an-array](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3731-find-missing-elements](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/3731-find-missing-elements) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -103,6 +105,7 @@ Daily DSA practice following Striver's A2Z Sheet.
 | [0015-3sum](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0015-3sum) |
 | [0455-assign-cookies](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0455-assign-cookies) |
 | [1331-rank-transform-of-an-array](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/1331-rank-transform-of-an-array) |
+| [3731-find-missing-elements](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/3731-find-missing-elements) |
 ## Greedy
 |  |
 | ------- |
