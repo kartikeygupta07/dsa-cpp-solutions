@@ -35,6 +35,7 @@ Daily DSA practice following Striver's A2Z Sheet.
 | [1248-count-number-of-nice-subarrays](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1903-largest-odd-number-in-string](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## String
 |  |
@@ -128,4 +129,8 @@ Daily DSA practice following Striver's A2Z Sheet.
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0877-stone-game) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
