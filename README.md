@@ -61,6 +61,7 @@ Daily DSA practice following Striver's A2Z Sheet.
 | [0045-jump-game-ii](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0066-plus-one) |
+| [0215-kth-largest-element-in-an-array](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0455-assign-cookies](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0503-next-greater-element-ii) |
@@ -104,6 +105,7 @@ Daily DSA practice following Striver's A2Z Sheet.
 |  |
 | ------- |
 | [0015-3sum](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0015-3sum) |
+| [0215-kth-largest-element-in-an-array](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0455-assign-cookies](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0455-assign-cookies) |
 | [1331-rank-transform-of-an-array](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [3731-find-missing-elements](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/3731-find-missing-elements) |
@@ -133,4 +135,16 @@ Daily DSA practice following Striver's A2Z Sheet.
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
