@@ -69,6 +69,7 @@ Daily DSA practice following Striver's A2Z Sheet.
 | [0877-stone-game](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0877-stone-game) |
 | [0930-binary-subarrays-with-sum](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0992-subarrays-with-k-different-integers) |
+| [1046-last-stone-weight](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/1046-last-stone-weight) |
 | [1248-count-number-of-nice-subarrays](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -143,6 +144,7 @@ Daily DSA practice following Striver's A2Z Sheet.
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [1046-last-stone-weight](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/1046-last-stone-weight) |
 ## Quickselect
 |  |
 | ------- |
