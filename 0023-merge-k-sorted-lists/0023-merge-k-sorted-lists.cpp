@@ -8,24 +8,24 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
+
 class Solution {
 public:
-    ListNode* convertArrToLL(vector<int>& arr) {
-        if (arr.empty()) return nullptr;
+    ListNode* convert(vector<int> &arr){
+        if(arr.empty()) return NULL;
 
         ListNode* head = new ListNode(arr[0]);
-        ListNode* curr = head;
+        ListNode* curr = head ;
 
-        for (int i = 1; i < arr.size(); i++) {
-            curr->next = new ListNode(arr[i]);
-            curr = curr->next;
+        for(int i = 1 ; i < arr.size() ; i++){
+            curr -> next = new ListNode(arr[i]);
+            curr = curr -> next;
         }
 
         return head;
     }
-
     ListNode* mergeKLists(vector<ListNode*>& lists) {
-        vector<int> arr ;
+        vector<int> arr;
         for(int i = 0 ; i < lists.size() ; i++){
             ListNode* temp = lists[i];
 
@@ -35,7 +35,7 @@ public:
             }
         }
         sort(arr.begin() , arr.end());
-        ListNode* head = convertArrToLL(arr);
+        ListNode* head = convert(arr);
         return head ;
     }
 };
