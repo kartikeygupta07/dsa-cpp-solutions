@@ -25,6 +25,7 @@ Daily DSA practice following Striver's A2Z Sheet.
 | [0992-subarrays-with-k-different-integers](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/1331-rank-transform-of-an-array) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
@@ -76,6 +77,7 @@ Daily DSA practice following Striver's A2Z Sheet.
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/2029-stone-game-ix) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/3731-find-missing-elements) |
 ## Prefix Sum
