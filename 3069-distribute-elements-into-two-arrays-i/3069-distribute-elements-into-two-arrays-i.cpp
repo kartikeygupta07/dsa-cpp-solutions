@@ -16,9 +16,9 @@ public:
         }
 
         // dono vectors ko jod do (concatenate)
-        vector<int> result = arr1;
-        result.insert(result.end(), arr2.begin(), arr2.end());
-
-        return result;
+        for(int i=0;i<arr2.size();i++){
+            arr1.push_back(arr2[i]);
+        }
+        return arr1;
     }
 };
