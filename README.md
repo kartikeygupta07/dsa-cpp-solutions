@@ -62,6 +62,7 @@ Daily DSA practice following Striver's A2Z Sheet.
 | [0015-3sum](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0027-remove-element) |
 | [0045-jump-game-ii](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -134,6 +135,7 @@ Daily DSA practice following Striver's A2Z Sheet.
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0877-stone-game](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0877-stone-game) |
@@ -154,6 +156,7 @@ Daily DSA practice following Striver's A2Z Sheet.
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 ## Heap (Priority Queue)
 |  |
