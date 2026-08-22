@@ -62,6 +62,7 @@ Daily DSA practice following Striver's A2Z Sheet.
 | [0001-two-sum](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0027-remove-element) |
+| [0033-search-in-rotated-sorted-array](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0045-jump-game-ii](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0055-jump-game) |
@@ -207,5 +208,6 @@ Daily DSA practice following Striver's A2Z Sheet.
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
