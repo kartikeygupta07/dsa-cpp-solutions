@@ -36,6 +36,7 @@ Daily DSA practice following Striver's A2Z Sheet.
 | [0877-stone-game](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0877-stone-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1903-largest-odd-number-in-string](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/1903-largest-odd-number-in-string) |
+| [1927-sum-game](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/2029-stone-game-ix) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -48,6 +49,7 @@ Daily DSA practice following Striver's A2Z Sheet.
 | [0151-reverse-words-in-a-string](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [1903-largest-odd-number-in-string](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/1903-largest-odd-number-in-string) |
+| [1927-sum-game](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/1927-sum-game) |
 ## Sliding Window
 |  |
 | ------- |
@@ -137,6 +139,7 @@ Daily DSA practice following Striver's A2Z Sheet.
 | [0455-assign-cookies](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0860-lemonade-change) |
 | [1903-largest-odd-number-in-string](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/1903-largest-odd-number-in-string) |
+| [1927-sum-game](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/2029-stone-game-ix) |
 ## Dynamic Programming
 |  |
@@ -155,6 +158,7 @@ Daily DSA practice following Striver's A2Z Sheet.
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0877-stone-game) |
+| [1927-sum-game](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/2029-stone-game-ix) |
 ## Enumeration
 |  |
