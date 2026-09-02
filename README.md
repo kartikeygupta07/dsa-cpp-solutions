@@ -20,6 +20,7 @@ Daily DSA practice following Striver's A2Z Sheet.
 | [0001-two-sum](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0496-next-greater-element-i) |
 | [0930-binary-subarrays-with-sum](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0930-binary-subarrays-with-sum) |
@@ -34,6 +35,7 @@ Daily DSA practice following Striver's A2Z Sheet.
 | ------- |
 | [0013-roman-to-integer](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0066-plus-one) |
+| [0268-missing-number](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0371-sum-of-two-integers) |
 | [0877-stone-game](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0877-stone-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/1248-count-number-of-nice-subarrays) |
@@ -78,6 +80,7 @@ Daily DSA practice following Striver's A2Z Sheet.
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0503-next-greater-element-ii) |
@@ -134,6 +137,7 @@ Daily DSA practice following Striver's A2Z Sheet.
 | [0015-3sum](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0015-3sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0455-assign-cookies) |
 | [1331-rank-transform-of-an-array](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [3731-find-missing-elements](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/3731-find-missing-elements) |
@@ -205,6 +209,7 @@ Daily DSA practice following Striver's A2Z Sheet.
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0191-number-of-1-bits) |
+| [0268-missing-number](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0371-sum-of-two-integers) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Minimax
@@ -228,6 +233,7 @@ Daily DSA practice following Striver's A2Z Sheet.
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0268-missing-number](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0268-missing-number) |
 ## Tree
 |  |
 | ------- |
