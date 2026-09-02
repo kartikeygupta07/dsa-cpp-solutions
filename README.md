@@ -177,6 +177,7 @@ Daily DSA practice following Striver's A2Z Sheet.
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0053-maximum-subarray) |
+| [0191-number-of-1-bits](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -203,6 +204,7 @@ Daily DSA practice following Striver's A2Z Sheet.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0191-number-of-1-bits) |
 | [0371-sum-of-two-integers](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0371-sum-of-two-integers) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Minimax
