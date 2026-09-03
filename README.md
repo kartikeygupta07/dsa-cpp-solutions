@@ -129,6 +129,7 @@ Daily DSA practice following Striver's A2Z Sheet.
 | ------- |
 | [0011-container-with-most-water](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0015-3sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0027-remove-element) |
 | [0141-linked-list-cycle](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0151-reverse-words-in-a-string) |
@@ -198,6 +199,7 @@ Daily DSA practice following Striver's A2Z Sheet.
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0023-merge-k-sorted-lists](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0206-reverse-linked-list) |
