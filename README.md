@@ -105,6 +105,7 @@ Daily DSA practice following Striver's A2Z Sheet.
 | [3875-construct-uniform-parity-array-i](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -112,6 +113,7 @@ Daily DSA practice following Striver's A2Z Sheet.
 | [1248-count-number-of-nice-subarrays](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [3903-smallest-stable-index-i](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Counting
 |  |
 | ------- |
