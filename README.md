@@ -206,6 +206,7 @@ Daily DSA practice following Striver's A2Z Sheet.
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0021-merge-two-sorted-lists](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0206-reverse-linked-list) |
@@ -268,6 +269,7 @@ Daily DSA practice following Striver's A2Z Sheet.
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0206-reverse-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
