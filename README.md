@@ -255,16 +255,19 @@ Daily DSA practice following Striver's A2Z Sheet.
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
 | ------- |
