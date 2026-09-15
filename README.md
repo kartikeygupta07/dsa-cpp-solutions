@@ -257,6 +257,7 @@ Daily DSA practice following Striver's A2Z Sheet.
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0226-invert-binary-tree) |
@@ -265,6 +266,7 @@ Daily DSA practice following Striver's A2Z Sheet.
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0226-invert-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -272,6 +274,7 @@ Daily DSA practice following Striver's A2Z Sheet.
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0226-invert-binary-tree) |
@@ -292,4 +295,8 @@ Daily DSA practice following Striver's A2Z Sheet.
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0141-linked-list-cycle) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
