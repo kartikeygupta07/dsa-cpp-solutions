@@ -46,6 +46,7 @@ Daily DSA practice following Striver's A2Z Sheet.
 | [1927-sum-game](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/2029-stone-game-ix) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/2221-find-triangular-sum-of-an-array) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -102,6 +103,7 @@ Daily DSA practice following Striver's A2Z Sheet.
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -185,6 +187,7 @@ Daily DSA practice following Striver's A2Z Sheet.
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/2221-find-triangular-sum-of-an-array) |
 ## Game Theory
 |  |
 | ------- |
@@ -252,6 +255,7 @@ Daily DSA practice following Striver's A2Z Sheet.
 ## Simulation
 |  |
 | ------- |
+| [2221-find-triangular-sum-of-an-array](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/3498-reverse-degree-of-a-string) |
@@ -323,4 +327,8 @@ Daily DSA practice following Striver's A2Z Sheet.
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Combinatorics
+|  |
+| ------- |
+| [2221-find-triangular-sum-of-an-array](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/2221-find-triangular-sum-of-an-array) |
 <!---LeetCode Topics End-->
