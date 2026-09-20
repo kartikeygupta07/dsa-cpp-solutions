@@ -60,6 +60,7 @@ Daily DSA practice following Striver's A2Z Sheet.
 | [0424-longest-repeating-character-replacement](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [1903-largest-odd-number-in-string](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/1927-sum-game) |
+| [3498-reverse-degree-of-a-string](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -247,6 +248,7 @@ Daily DSA practice following Striver's A2Z Sheet.
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Binary Search
 |  |
 | ------- |
