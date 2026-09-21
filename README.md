@@ -100,6 +100,7 @@ Daily DSA practice following Striver's A2Z Sheet.
 | [1248-count-number-of-nice-subarrays](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1710-maximum-units-on-a-truck](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/1710-maximum-units-on-a-truck) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -158,6 +159,7 @@ Daily DSA practice following Striver's A2Z Sheet.
 | [0268-missing-number](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0455-assign-cookies) |
 | [1331-rank-transform-of-an-array](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/1331-rank-transform-of-an-array) |
+| [1710-maximum-units-on-a-truck](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/1710-maximum-units-on-a-truck) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3731-find-missing-elements](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/3731-find-missing-elements) |
 ## Greedy
@@ -168,6 +170,7 @@ Daily DSA practice following Striver's A2Z Sheet.
 | [0055-jump-game](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0860-lemonade-change) |
+| [1710-maximum-units-on-a-truck](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/1710-maximum-units-on-a-truck) |
 | [1903-largest-odd-number-in-string](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/2029-stone-game-ix) |
