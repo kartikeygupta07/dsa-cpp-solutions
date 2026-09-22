@@ -38,6 +38,7 @@ Daily DSA practice following Striver's A2Z Sheet.
 | ------- |
 | [0013-roman-to-integer](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0371-sum-of-two-integers) |
 | [0877-stone-game](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0877-stone-game) |
@@ -182,6 +183,7 @@ Daily DSA practice following Striver's A2Z Sheet.
 | [0045-jump-game-ii](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0152-maximum-product-subarray) |
@@ -334,4 +336,8 @@ Daily DSA practice following Striver's A2Z Sheet.
 |  |
 | ------- |
 | [2221-find-triangular-sum-of-an-array](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/2221-find-triangular-sum-of-an-array) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
