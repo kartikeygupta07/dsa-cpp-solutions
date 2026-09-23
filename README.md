@@ -87,6 +87,7 @@ Daily DSA practice following Striver's A2Z Sheet.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0198-house-robber](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0268-missing-number) |
@@ -188,6 +189,7 @@ Daily DSA practice following Striver's A2Z Sheet.
 | [0115-distinct-subsequences](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0152-maximum-product-subarray) |
+| [0198-house-robber](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0198-house-robber) |
 | [0746-min-cost-climbing-stairs](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0877-stone-game) |
 ## Number Theory
