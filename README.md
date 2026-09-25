@@ -37,6 +37,7 @@ Daily DSA practice following Striver's A2Z Sheet.
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0013-roman-to-integer) |
+| [0062-unique-paths](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0268-missing-number) |
@@ -188,6 +189,7 @@ Daily DSA practice following Striver's A2Z Sheet.
 | [0045-jump-game-ii](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -343,6 +345,7 @@ Daily DSA practice following Striver's A2Z Sheet.
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0062-unique-paths) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/2221-find-triangular-sum-of-an-array) |
 ## Memoization
 |  |
