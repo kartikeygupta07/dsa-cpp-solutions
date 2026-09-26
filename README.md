@@ -88,6 +88,7 @@ Daily DSA practice following Striver's A2Z Sheet.
 | [0063-unique-paths-ii](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0066-plus-one) |
+| [0120-triangle](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -196,6 +197,7 @@ Daily DSA practice following Striver's A2Z Sheet.
 | [0064-minimum-path-sum](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0115-distinct-subsequences) |
+| [0120-triangle](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0198-house-robber) |
