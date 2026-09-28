@@ -97,6 +97,7 @@ Daily DSA practice following Striver's A2Z Sheet.
 | [0215-kth-largest-element-in-an-array](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0268-missing-number) |
+| [0322-coin-change](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0322-coin-change) |
 | [0455-assign-cookies](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0503-next-greater-element-ii) |
@@ -204,6 +205,7 @@ Daily DSA practice following Striver's A2Z Sheet.
 | [0152-maximum-product-subarray](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0213-house-robber-ii) |
+| [0322-coin-change](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0322-coin-change) |
 | [0746-min-cost-climbing-stairs](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0877-stone-game) |
 | [0931-minimum-falling-path-sum](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0931-minimum-falling-path-sum) |
@@ -328,6 +330,7 @@ Daily DSA practice following Striver's A2Z Sheet.
 | [0102-binary-tree-level-order-traversal](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0226-invert-binary-tree) |
+| [0322-coin-change](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0322-coin-change) |
 ## Recursion
 |  |
 | ------- |
@@ -370,9 +373,14 @@ Daily DSA practice following Striver's A2Z Sheet.
 ## Knapsack Problem
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0322-coin-change) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
