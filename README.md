@@ -116,6 +116,7 @@ Daily DSA practice following Striver's A2Z Sheet.
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/3483-unique-3-digit-even-numbers) |
@@ -206,6 +207,7 @@ Daily DSA practice following Striver's A2Z Sheet.
 | [0746-min-cost-climbing-stairs](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0877-stone-game) |
 | [0931-minimum-falling-path-sum](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0931-minimum-falling-path-sum) |
+| [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 ## Number Theory
 |  |
 | ------- |
@@ -365,4 +367,12 @@ Daily DSA practice following Striver's A2Z Sheet.
 | [0063-unique-paths-ii](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0064-minimum-path-sum) |
 | [0931-minimum-falling-path-sum](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0931-minimum-falling-path-sum) |
+## Knapsack Problem
+|  |
+| ------- |
+| [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 <!---LeetCode Topics End-->
