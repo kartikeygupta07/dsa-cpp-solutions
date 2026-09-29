@@ -63,6 +63,7 @@ Daily DSA practice following Striver's A2Z Sheet.
 | [0115-distinct-subsequences](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/1927-sum-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/3498-reverse-degree-of-a-string) |
@@ -148,6 +149,7 @@ Daily DSA practice following Striver's A2Z Sheet.
 | [0094-binary-tree-inorder-traversal](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0503-next-greater-element-ii) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -383,4 +385,8 @@ Daily DSA practice following Striver's A2Z Sheet.
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0322-coin-change) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
