@@ -41,6 +41,7 @@ Daily DSA practice following Striver's A2Z Sheet.
 | [0066-plus-one](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0268-missing-number) |
+| [0279-perfect-squares](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0279-perfect-squares) |
 | [0371-sum-of-two-integers](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0371-sum-of-two-integers) |
 | [0877-stone-game](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0877-stone-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/1248-count-number-of-nice-subarrays) |
@@ -211,6 +212,7 @@ Daily DSA practice following Striver's A2Z Sheet.
 | [0152-maximum-product-subarray](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0213-house-robber-ii) |
+| [0279-perfect-squares](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0746-min-cost-climbing-stairs](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0746-min-cost-climbing-stairs) |
@@ -337,6 +339,7 @@ Daily DSA practice following Striver's A2Z Sheet.
 | [0102-binary-tree-level-order-traversal](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0226-invert-binary-tree) |
+| [0279-perfect-squares](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0322-coin-change) |
 ## Recursion
 |  |
@@ -380,6 +383,7 @@ Daily DSA practice following Striver's A2Z Sheet.
 ## Knapsack Problem
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
@@ -391,6 +395,7 @@ Daily DSA practice following Striver's A2Z Sheet.
 ## Complete Knapsack
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0322-coin-change) |
 ## Bracket Sequences
 |  |
