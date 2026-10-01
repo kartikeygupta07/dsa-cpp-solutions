@@ -62,6 +62,7 @@ Daily DSA practice following Striver's A2Z Sheet.
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0020-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0424-longest-repeating-character-replacement) |
@@ -152,6 +153,7 @@ Daily DSA practice following Striver's A2Z Sheet.
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0503-next-greater-element-ii) |
@@ -402,6 +404,7 @@ Daily DSA practice following Striver's A2Z Sheet.
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0020-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Longest Common Subsequence
 |  |
