@@ -75,6 +75,7 @@ Daily DSA practice following Striver's A2Z Sheet.
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0930-binary-subarrays-with-sum](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/1248-count-number-of-nice-subarrays) |
@@ -107,6 +108,7 @@ Daily DSA practice following Striver's A2Z Sheet.
 | [0455-assign-cookies](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0503-next-greater-element-ii) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0746-min-cost-climbing-stairs](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0860-lemonade-change](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0877-stone-game) |
@@ -218,6 +220,7 @@ Daily DSA practice following Striver's A2Z Sheet.
 | [0279-perfect-squares](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0746-min-cost-climbing-stairs](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0877-stone-game) |
 | [0931-minimum-falling-path-sum](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0931-minimum-falling-path-sum) |
@@ -305,6 +308,7 @@ Daily DSA practice following Striver's A2Z Sheet.
 | [0033-search-in-rotated-sorted-array](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0268-missing-number) |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0718-maximum-length-of-repeated-subarray) |
 ## Tree
 |  |
 | ------- |
@@ -410,4 +414,12 @@ Daily DSA practice following Striver's A2Z Sheet.
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/1143-longest-common-subsequence) |
+## Rolling Hash
+|  |
+| ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [0718-maximum-length-of-repeated-subarray](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0718-maximum-length-of-repeated-subarray) |
 <!---LeetCode Topics End-->
