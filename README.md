@@ -66,6 +66,7 @@ Daily DSA practice following Striver's A2Z Sheet.
 | [0115-distinct-subsequences](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0424-longest-repeating-character-replacement) |
+| [0516-longest-palindromic-subsequence](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/1143-longest-common-subsequence) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/1903-largest-odd-number-in-string) |
@@ -220,6 +221,7 @@ Daily DSA practice following Striver's A2Z Sheet.
 | [0279-perfect-squares](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0746-min-cost-climbing-stairs](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0877-stone-game) |
