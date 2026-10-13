@@ -22,6 +22,7 @@ Daily DSA practice following Striver's A2Z Sheet.
 | [0049-group-anagrams](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0496-next-greater-element-i) |
@@ -69,6 +70,7 @@ Daily DSA practice following Striver's A2Z Sheet.
 | [0072-edit-distance](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0516-longest-palindromic-subsequence](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0516-longest-palindromic-subsequence) |
@@ -196,6 +198,7 @@ Daily DSA practice following Striver's A2Z Sheet.
 | [0049-group-anagrams](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0455-assign-cookies) |
 | [1331-rank-transform-of-an-array](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/1331-rank-transform-of-an-array) |
