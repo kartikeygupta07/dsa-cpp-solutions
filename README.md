@@ -99,6 +99,7 @@ Daily DSA practice following Striver's A2Z Sheet.
 | [0015-3sum](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0040-combination-sum-ii](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0053-maximum-subarray) |
@@ -460,4 +461,8 @@ Daily DSA practice following Striver's A2Z Sheet.
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0300-longest-increasing-subsequence) |
+## Backtracking
+|  |
+| ------- |
+| [0040-combination-sum-ii](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0040-combination-sum-ii) |
 <!---LeetCode Topics End-->
