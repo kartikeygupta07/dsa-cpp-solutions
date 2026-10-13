@@ -19,6 +19,7 @@ Daily DSA practice following Striver's A2Z Sheet.
 | ------- |
 | [0001-two-sum](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0268-missing-number) |
@@ -64,6 +65,7 @@ Daily DSA practice following Striver's A2Z Sheet.
 | [0013-roman-to-integer](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0020-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0044-wildcard-matching) |
+| [0049-group-anagrams](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0151-reverse-words-in-a-string) |
@@ -96,6 +98,7 @@ Daily DSA practice following Striver's A2Z Sheet.
 | [0027-remove-element](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0045-jump-game-ii](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0045-jump-game-ii) |
+| [0049-group-anagrams](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0063-unique-paths-ii) |
@@ -190,6 +193,7 @@ Daily DSA practice following Striver's A2Z Sheet.
 |  |
 | ------- |
 | [0015-3sum](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0049-group-anagrams) |
 | [0215-kth-largest-element-in-an-array](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0268-missing-number) |
