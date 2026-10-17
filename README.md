@@ -77,6 +77,7 @@ Daily DSA practice following Striver's A2Z Sheet.
 | [0516-longest-palindromic-subsequence](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0678-valid-parenthesis-string) |
+| [0680-valid-palindrome-ii](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0680-valid-palindrome-ii) |
 | [1143-longest-common-subsequence](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -194,6 +195,7 @@ Daily DSA practice following Striver's A2Z Sheet.
 | [0151-reverse-words-in-a-string](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0455-assign-cookies) |
+| [0680-valid-palindrome-ii](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0680-valid-palindrome-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -218,6 +220,7 @@ Daily DSA practice following Striver's A2Z Sheet.
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0455-assign-cookies](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0678-valid-parenthesis-string) |
+| [0680-valid-palindrome-ii](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0860-lemonade-change](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0860-lemonade-change) |
 | [1710-maximum-units-on-a-truck](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/1710-maximum-units-on-a-truck) |
 | [1903-largest-odd-number-in-string](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/1903-largest-odd-number-in-string) |
