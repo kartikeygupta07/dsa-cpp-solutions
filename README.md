@@ -46,6 +46,7 @@ Daily DSA practice following Striver's A2Z Sheet.
 | [0268-missing-number](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0279-perfect-squares) |
 | [0371-sum-of-two-integers](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0371-sum-of-two-integers) |
+| [0486-predict-the-winner](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0877-stone-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1903-largest-odd-number-in-string](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/1903-largest-odd-number-in-string) |
@@ -124,6 +125,7 @@ Daily DSA practice following Striver's A2Z Sheet.
 | [0322-coin-change](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0455-assign-cookies) |
+| [0486-predict-the-winner](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0503-next-greater-element-ii) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0718-maximum-length-of-repeated-subarray) |
@@ -261,6 +263,7 @@ Daily DSA practice following Striver's A2Z Sheet.
 | [0322-coin-change](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0486-predict-the-winner](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0486-predict-the-winner) |
 | [0516-longest-palindromic-subsequence](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0678-valid-parenthesis-string) |
@@ -280,6 +283,7 @@ Daily DSA practice following Striver's A2Z Sheet.
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0877-stone-game) |
 | [1927-sum-game](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/2029-stone-game-ix) |
@@ -332,6 +336,7 @@ Daily DSA practice following Striver's A2Z Sheet.
 ## Minimax
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0486-predict-the-winner) |
 | [2029-stone-game-ix](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
@@ -340,6 +345,7 @@ Daily DSA practice following Striver's A2Z Sheet.
 ## Zero-Sum Game
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0486-predict-the-winner) |
 | [2029-stone-game-ix](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/2029-stone-game-ix) |
 ## Simulation
 |  |
@@ -403,6 +409,7 @@ Daily DSA practice following Striver's A2Z Sheet.
 | [0021-merge-two-sorted-lists](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0044-wildcard-matching](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0044-wildcard-matching) |
 | [0206-reverse-linked-list](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0206-reverse-linked-list) |
+| [0486-predict-the-winner](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0486-predict-the-winner) |
 | [3483-unique-3-digit-even-numbers](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Floyd's Cycle Finding Algorithm
 |  |
