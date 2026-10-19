@@ -1,37 +1,27 @@
 class Solution {
 public:
-    int helper(int index, int target, vector<int>& nums, vector<vector<int>> &dp){
-        if(target == 0) return 0;
+    bool helper(int idx , vector<int> &nums , int target, vector<vector<int>> &dp){
+        if(target == 0) return true ;
+        if(idx == 0) return nums[0] == target;
+        if(dp[idx][target] != -1) return dp[idx][target];
 
-        if(index == 0){
-            if(nums[0] == target) return 1;
-            else return -1e9;
+        int notTake = helper(idx - 1, nums , target, dp);;
+        int take = 0 ;
+        if(target >= nums[idx]){
+            take = helper(idx - 1, nums , target - nums[idx], dp);
         }
 
-        if(dp[index][target] != -1) return dp[index][target];
-
-        int notPick = helper(index - 1, target, nums , dp);
-
-        int pick = -1e9;
-        if(nums[index] <= target){
-            pick = 1 + helper(index - 1, target - nums[index], nums , dp);
-        }
-
-        return dp[index][target] = max(pick, notPick);
+        return  dp[idx][target] = take || notTake ;
     }
-
     bool canPartition(vector<int>& nums) {
-    int totalSum = 0;
-    int n = nums.size();
-    for(int i = 0; i < n; i++){
-        totalSum += nums[i];
+        int n = nums.size() ;
+        int totSum = 0 ;
+        for(int i = 0 ; i < n ; i++){
+            totSum += nums[i];
+        }
+        if(totSum % 2 != 0) return false ;
+        int target = totSum / 2;
+        vector<vector<int>> dp(n , vector<int>(target + 1 , -1));
+        return helper(n -1 , nums , target, dp);
     }
-    if(totalSum % 2 != 0) return false;
-
-    int target = totalSum / 2;                           
-    vector<vector<int>> dp(n, vector<int>(target + 1, -1));  
-
-    int res = helper(n - 1, target, nums, dp);
-    return res > 0;    
-}
 };
