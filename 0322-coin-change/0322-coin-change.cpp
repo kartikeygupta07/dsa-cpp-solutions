@@ -1,30 +1,29 @@
 class Solution {
 public:
-    int helper(int index , int amount , vector<int> &coins ,vector<vector<int>> &dp){
-        if(amount == 0) return 0;
-
-        if(index == 0){
-            if(amount % coins[0] == 0) return amount / coins[0];
-            else return 1e9;
+    int helper(int idx , vector<int> &coins , int amount, vector<vector<int>> &dp){
+        if(amount == 0) return 0 ;
+        if (idx == 0) {
+            if (amount % coins[0] == 0) return amount / coins[0];
+            return 1e9;
         }
 
-        if(dp[index][amount] != -1) return dp[index][amount];
+        if(dp[idx][amount] != -1) return dp[idx][amount];
 
-        int notPick = helper(index - 1 , amount , coins , dp);
-
+        int notPick = 0 + helper(idx - 1, coins , amount, dp);
         int pick = 1e9 ;
-        if(coins[index] <= amount){
-            pick = 1 + helper(index , amount - coins[index] , coins , dp);
+        if(amount >= coins[idx]){
+            pick = 1 + helper(idx , coins , amount - coins[idx], dp);
         }
 
-        return dp[index][amount] = min(pick , notPick);
-
+        return dp[idx][amount] = min(pick , notPick) ;
     }
     int coinChange(vector<int>& coins, int amount) {
-        int n = coins.size() ;
+        int n = coins.size();
         vector<vector<int>> dp(n , vector<int>(amount + 1, -1));
-        int res = helper(n-1 , amount , coins , dp);
-        if(res >= 1e9) return -1;
-        return res;
+        int res = helper(n -1 , coins , amount, dp);
+        if(res >= 1e9){
+            return -1;
+        }
+        return res ;
     }
 };
