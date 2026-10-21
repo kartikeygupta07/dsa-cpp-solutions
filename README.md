@@ -130,6 +130,7 @@ Daily DSA practice following Striver's A2Z Sheet.
 | [0494-target-sum](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0503-next-greater-element-ii) |
+| [0518-coin-change-ii](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0518-coin-change-ii) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0746-min-cost-climbing-stairs](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0860-lemonade-change](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0860-lemonade-change) |
@@ -269,6 +270,7 @@ Daily DSA practice following Striver's A2Z Sheet.
 | [0486-predict-the-winner](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0516-longest-palindromic-subsequence) |
+| [0518-coin-change-ii](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0718-maximum-length-of-repeated-subarray) |
@@ -457,6 +459,7 @@ Daily DSA practice following Striver's A2Z Sheet.
 | [0322-coin-change](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0494-target-sum) |
+| [0518-coin-change-ii](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0518-coin-change-ii) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 ## 0-1 Knapsack
 |  |
@@ -469,6 +472,7 @@ Daily DSA practice following Striver's A2Z Sheet.
 | ------- |
 | [0279-perfect-squares](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0322-coin-change) |
+| [0518-coin-change-ii](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0518-coin-change-ii) |
 ## Bracket Sequences
 |  |
 | ------- |
