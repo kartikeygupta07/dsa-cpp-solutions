@@ -160,6 +160,7 @@ Daily DSA practice following Striver's A2Z Sheet.
 | [3471-find-the-largest-almost-missing-integer](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/3731-find-missing-elements) |
@@ -342,6 +343,7 @@ Daily DSA practice following Striver's A2Z Sheet.
 | [0191-number-of-1-bits](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0371-sum-of-two-integers) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Minimax
 |  |
