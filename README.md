@@ -20,6 +20,7 @@ Daily DSA practice following Striver's A2Z Sheet.
 | [0001-two-sum](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0049-group-anagrams) |
+| [0139-word-break](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0242-valid-anagram) |
@@ -73,6 +74,7 @@ Daily DSA practice following Striver's A2Z Sheet.
 | [0049-group-anagrams](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0115-distinct-subsequences) |
+| [0139-word-break](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0392-is-subsequence) |
@@ -116,6 +118,7 @@ Daily DSA practice following Striver's A2Z Sheet.
 | [0120-triangle](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0139-word-break](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -264,6 +267,7 @@ Daily DSA practice following Striver's A2Z Sheet.
 | [0120-triangle](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0139-word-break](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0213-house-robber-ii) |
@@ -453,6 +457,7 @@ Daily DSA practice following Striver's A2Z Sheet.
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0139-word-break) |
 ## Matrix
 |  |
 | ------- |
@@ -521,4 +526,12 @@ Daily DSA practice following Striver's A2Z Sheet.
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0069-sqrtx) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
