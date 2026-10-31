@@ -74,6 +74,7 @@ Daily DSA practice following Striver's A2Z Sheet.
 | [0049-group-anagrams](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0072-edit-distance) |
 | [0115-distinct-subsequences](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0115-distinct-subsequences) |
+| [0132-palindrome-partitioning-ii](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0242-valid-anagram) |
@@ -268,6 +269,7 @@ Daily DSA practice following Striver's A2Z Sheet.
 | [0120-triangle](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0132-palindrome-partitioning-ii](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0198-house-robber) |
