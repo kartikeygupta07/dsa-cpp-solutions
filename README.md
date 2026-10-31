@@ -148,6 +148,7 @@ Daily DSA practice following Striver's A2Z Sheet.
 | [0930-binary-subarrays-with-sum](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0931-minimum-falling-path-sum](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0931-minimum-falling-path-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0992-subarrays-with-k-different-integers) |
+| [1043-partition-array-for-maximum-sum](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/1043-partition-array-for-maximum-sum) |
 | [1046-last-stone-weight](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/1046-last-stone-weight) |
 | [1248-count-number-of-nice-subarrays](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -291,6 +292,7 @@ Daily DSA practice following Striver's A2Z Sheet.
 | [0746-min-cost-climbing-stairs](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0877-stone-game) |
 | [0931-minimum-falling-path-sum](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0931-minimum-falling-path-sum) |
+| [1043-partition-array-for-maximum-sum](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/1043-partition-array-for-maximum-sum) |
 | [1143-longest-common-subsequence](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1463-cherry-pickup-ii](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/1463-cherry-pickup-ii) |
