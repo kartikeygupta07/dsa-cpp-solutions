@@ -22,6 +22,7 @@ Daily DSA practice following Striver's A2Z Sheet.
 | [0049-group-anagrams](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0049-group-anagrams) |
 | [0139-word-break](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0268-missing-number) |
@@ -45,6 +46,7 @@ Daily DSA practice following Striver's A2Z Sheet.
 | [0066-plus-one](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0279-perfect-squares) |
 | [0368-largest-divisible-subset](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0368-largest-divisible-subset) |
@@ -216,6 +218,7 @@ Daily DSA practice following Striver's A2Z Sheet.
 | [0141-linked-list-cycle](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0202-happy-number) |
 | [0392-is-subsequence](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0680-valid-palindrome-ii) |
@@ -442,6 +445,7 @@ Daily DSA practice following Striver's A2Z Sheet.
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0202-happy-number) |
 ## Binary Search Tree
 |  |
 | ------- |
