@@ -284,6 +284,7 @@ Daily DSA practice following Striver's A2Z Sheet.
 | [0300-longest-increasing-subsequence](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0312-burst-balloons](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0322-coin-change) |
+| [0338-counting-bits](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0338-counting-bits) |
 | [0368-largest-divisible-subset](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0368-largest-divisible-subset) |
 | [0392-is-subsequence](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0416-partition-equal-subset-sum) |
@@ -358,6 +359,7 @@ Daily DSA practice following Striver's A2Z Sheet.
 | ------- |
 | [0191-number-of-1-bits](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0338-counting-bits) |
 | [0371-sum-of-two-integers](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0371-sum-of-two-integers) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
