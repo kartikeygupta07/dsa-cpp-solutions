@@ -49,6 +49,7 @@ Daily DSA practice following Striver's A2Z Sheet.
 | [0279-perfect-squares](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0279-perfect-squares) |
 | [0368-largest-divisible-subset](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0368-largest-divisible-subset) |
 | [0371-sum-of-two-integers](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0371-sum-of-two-integers) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0877-stone-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/1248-count-number-of-nice-subarrays) |
@@ -133,6 +134,7 @@ Daily DSA practice following Striver's A2Z Sheet.
 | [0322-coin-change](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0455-assign-cookies) |
 | [0486-predict-the-winner](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0494-target-sum) |
