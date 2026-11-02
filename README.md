@@ -34,6 +34,7 @@ Daily DSA practice following Striver's A2Z Sheet.
 | [1331-rank-transform-of-an-array](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -167,6 +168,7 @@ Daily DSA practice following Striver's A2Z Sheet.
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/3483-unique-3-digit-even-numbers) |
@@ -347,6 +349,7 @@ Daily DSA practice following Striver's A2Z Sheet.
 | [0141-linked-list-cycle](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0141-linked-list-cycle) |
 | [0203-remove-linked-list-elements](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0206-reverse-linked-list) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Merge Sort
 |  |
 | ------- |
