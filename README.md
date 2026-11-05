@@ -160,6 +160,7 @@ Daily DSA practice following Striver's A2Z Sheet.
 | [1046-last-stone-weight](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/1046-last-stone-weight) |
 | [1248-count-number-of-nice-subarrays](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/1331-rank-transform-of-an-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1463-cherry-pickup-ii](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/1463-cherry-pickup-ii) |
 | [1710-maximum-units-on-a-truck](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/1710-maximum-units-on-a-truck) |
@@ -230,6 +231,7 @@ Daily DSA practice following Striver's A2Z Sheet.
 | [0680-valid-palindrome-ii](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0905-sort-array-by-parity](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0922-sort-array-by-parity-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Sorting
 |  |
 | ------- |
@@ -245,6 +247,7 @@ Daily DSA practice following Striver's A2Z Sheet.
 | [0905-sort-array-by-parity](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/1331-rank-transform-of-an-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1710-maximum-units-on-a-truck](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/1710-maximum-units-on-a-truck) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3731-find-missing-elements](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/3731-find-missing-elements) |
@@ -404,6 +407,7 @@ Daily DSA practice following Striver's A2Z Sheet.
 | [0268-missing-number](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Tree
 |  |
 | ------- |
