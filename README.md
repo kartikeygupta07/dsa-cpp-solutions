@@ -166,6 +166,7 @@ Daily DSA practice following Striver's A2Z Sheet.
 | [1710-maximum-units-on-a-truck](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/1710-maximum-units-on-a-truck) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/2029-stone-game-ix) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
@@ -249,6 +250,7 @@ Daily DSA practice following Striver's A2Z Sheet.
 | [1331-rank-transform-of-an-array](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1710-maximum-units-on-a-truck](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/1710-maximum-units-on-a-truck) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3731-find-missing-elements](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/3731-find-missing-elements) |
 ## Greedy
@@ -408,6 +410,7 @@ Daily DSA practice following Striver's A2Z Sheet.
 | [0300-longest-increasing-subsequence](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/kartikeygupta07/dsa-cpp-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Tree
 |  |
 | ------- |
